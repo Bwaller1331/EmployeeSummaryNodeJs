@@ -1,0 +1,27 @@
+{
+  "name": "employeesummarynodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bwaller1331/EmployeeSummaryNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bwaller1331/EmployeeSummaryNodeJs/issues"
+  },
+  "homepage": "https://github.com/Bwaller1331/EmployeeSummaryNodeJs#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}

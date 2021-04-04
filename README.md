@@ -25,8 +25,8 @@ This project could be used to generate list of employees for business and for ke
 Brandon Waller
 
 ## Tests
-Run the program using the instructions above
-
+![](img\nodefail.gif)
+![](img\nodeTestSuccess.gif)
 ## License
 undefined
 
